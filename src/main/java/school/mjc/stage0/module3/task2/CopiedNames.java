@@ -10,5 +10,6 @@ public class CopiedNames {
         int variable4 = 5000;
         int variable5 = 7000;
         int value3 = 90000;
+        //
     }
 }
